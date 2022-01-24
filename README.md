@@ -2,7 +2,9 @@
  12191793_riska fitri nur ainy 
  <p>tugas 6>
  <p> program </p>
- ![](1.PNG)
+ 
+ ![](2.PNG)
 
  <p> hasil </p>
+ 
 ![](flutter1.PNG)
